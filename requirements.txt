@@ -4,6 +4,7 @@ fastapi
 tqdm
 scikit-learn
 requests
+statsmodels
 types-requests
 pyyaml
 types-PyYAML
