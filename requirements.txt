@@ -2,7 +2,6 @@ pycryptodomex
 pandas
 fastapi
 tqdm
-os-sys
 matplotlib
 scikit-learn
 requests
