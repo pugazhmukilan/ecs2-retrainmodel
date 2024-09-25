@@ -2,7 +2,7 @@ pycryptodomex
 pandas
 fastapi
 tqdm
-sklearn
+scikit-learn
 requests
 types-requests
 pyyaml
