@@ -1,5 +1,6 @@
 pycryptodomex
 pandas
+fastapi
 tqdm
 requests
 types-requests
