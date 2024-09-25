@@ -2,6 +2,7 @@ pycryptodomex
 pandas
 fastapi
 tqdm
+matplotlib
 scikit-learn
 requests
 statsmodels
