@@ -5,6 +5,7 @@ tqdm
 matplotlib
 scikit-learn
 requests
+modelbit
 statsmodels
 types-requests
 pyyaml
